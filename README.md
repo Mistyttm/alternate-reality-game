@@ -21,7 +21,7 @@ An idea for a game I have, Gotta make use of my time somehow lol
   * each universe will have slightly different layouts
 * The goal can be reqached in either universe 1 or 2 or it can be reached in both at once
 * floaty sort of jumping
-* universe 1 has a double jump, universe 2 does not
+  * universe 1 has a double jump, universe 2 does not
 * player will have a gun to shoot things?
   * enemies?
   * boxes, definitely
