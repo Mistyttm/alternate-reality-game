@@ -20,9 +20,9 @@ An idea for a game I have, Gotta make use of my time somehow lol
   *  floaty sort of jumping
   *  universe 1 has a double jump, universe 2 does not
   *  player will have a gun to shoot things?
-    *  enemies?
-    *  boxes, definitely
-      *  boxes can also be pushed
-    *  buttons
-    *  levers?
-      *  No those can be pushed
+     *  enemies?
+     *  boxes, definitely
+        *  boxes can also be pushed
+     *  buttons
+     *  levers?
+        *  No those can be pushed
