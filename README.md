@@ -6,6 +6,7 @@ An idea for a game I have, Gotta make use of my time somehow lol
 
 * 2D game
 * Artstyle??????? (later uwu)
+  * my good friend Noah Soups will be helping me with the art
 * The game will have multiple realities
 * 2 of them
 
@@ -29,3 +30,12 @@ An idea for a game I have, Gotta make use of my time somehow lol
   * buttons
   * levers?
     * No those can be pushed
+
+## Theming Ideas 
+
+* player will be trans
+  * universe 1 will be post transition
+  * universe 2 pre transition
+* colouring
+  * universe 1 will be beight and colourful
+  * universe 2 will be darker, more dreary signifyingdepression and dysphoria
