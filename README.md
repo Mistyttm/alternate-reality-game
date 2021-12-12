@@ -38,4 +38,4 @@ An idea for a game I have, Gotta make use of my time somehow lol
   * universe 2 pre transition
 * colouring
   * universe 1 will be beight and colourful
-  * universe 2 will be darker, more dreary signifyingdepression and dysphoria
+  * universe 2 will be darker, more dreary signifying depression and dysphoria
